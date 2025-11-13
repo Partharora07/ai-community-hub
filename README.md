@@ -14,3 +14,9 @@ Welcome — this repository is the central hub for AariyaTech UK's AI community:
 
 ## Contact
 For community concerns: hello@aariyatech.co.uk
+
+<br>
+
+![License](https://img.shields.io/github/license/Aariyatech-UK/ai-community-hub)
+![Issues](https://img.shields.io/github/issues/Aariyatech-UK/ai-community-hub)
+![Discussions](https://img.shields.io/github/discussions/Aariyatech-UK/ai-community-hub)
